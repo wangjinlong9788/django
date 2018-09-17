@@ -24,3 +24,6 @@ start by :
 
 python manage.py runserver 0.0.0.0:8000
 
+Then you will see:
+![image](https://github.com/wangjinlong9788/django/blob/master/django.jpg)
+
